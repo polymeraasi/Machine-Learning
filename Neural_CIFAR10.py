@@ -16,17 +16,17 @@ def unpickle(file):
 
 
 train_b_1 = unpickle(
-    '/Users/pinja/pythonProject1/cifar-10-python (3)/cifar-10-batches-py/data_batch_1')
+    '/Users/x/pythonProject1/cifar-10-python (3)/cifar-10-batches-py/data_batch_1')
 train_b_2 = unpickle(
-    '/Users/pinja/pythonProject1/cifar-10-python (3)/cifar-10-batches-py/data_batch_2')
+    '/Users/x/pythonProject1/cifar-10-python (3)/cifar-10-batches-py/data_batch_2')
 train_b_3 = unpickle(
-    '/Users/pinja/pythonProject1/cifar-10-python (3)/cifar-10-batches-py/data_batch_3')
+    '/Users/x/pythonProject1/cifar-10-python (3)/cifar-10-batches-py/data_batch_3')
 train_b_4 = unpickle(
-    '/Users/pinja/pythonProject1/cifar-10-python (3)/cifar-10-batches-py/data_batch_4')
+    '/Users/x/pythonProject1/cifar-10-python (3)/cifar-10-batches-py/data_batch_4')
 train_b_5 = unpickle(
-    '/Users/pinja/pythonProject1/cifar-10-python (3)/cifar-10-batches-py/data_batch_5')
+    '/Users/x/pythonProject1/cifar-10-python (3)/cifar-10-batches-py/data_batch_5')
 test_batch = unpickle(
-    '/Users/pinja/pythonProject1/cifar-10-python (3)/cifar-10-batches-py/test_batch')
+    '/Users/x/pythonProject1/cifar-10-python (3)/cifar-10-batches-py/test_batch')
 
 num_of_classes = 10
 
