@@ -1,5 +1,5 @@
 """
-DATA.ML.100 Koivisto Pinja
+DATA.ML.100 
 (EX01) To do: program that asks user to give N points with a mouse
 by clicking left to add points then right to stop.
 After that the program plots the points ans a fitted linear model.
